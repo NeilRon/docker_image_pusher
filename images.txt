@@ -6,6 +6,7 @@ minio/minio:RELEASE.2023-03-20T20-16-18Z
 milvusdb/milvus:v2.5.4
 redis:7
 mysql:8.0
+postgres:16
 itzg/minecraft-bedrock-server
 githubyumao/mcsmanager-web:v10.5.0
 githubyumao/mcsmanager-daemon:v10.5.0
