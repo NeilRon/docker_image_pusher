@@ -1,3 +1,4 @@
+itzg/minecraft-bedrock-server
 python:3.12-slim
 mongo:8.0
 traefik:v3
@@ -8,7 +9,6 @@ redis:7
 mysql:8.0
 postgres:16
 rabbitmq:4
-itzg/minecraft-bedrock-server
 githubyumao/mcsmanager-web:v10.5.0
 githubyumao/mcsmanager-daemon:v10.5.0
 ubuntu
