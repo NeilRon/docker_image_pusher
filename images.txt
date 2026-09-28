@@ -14,7 +14,6 @@ githubyumao/mcsmanager-daemon:v10.5.0
 ubuntu
 portainer/portainer-ce
 linuxserver/transmission
-docker.litellm.ai/berriai/litellm
 ghcr.io/berriai/litellm-database:latest
 ghcr.io/astral-sh/uv:python3.13-trixie-slim
 # 支持私库
